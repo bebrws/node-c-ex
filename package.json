@@ -1,0 +1,13 @@
+{
+  "name": "node-c-ex",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js",
+    "build": "node-gyp configure build"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
